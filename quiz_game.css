@@ -1,0 +1,17 @@
+#player_1_name_input,#player_2_name_input{
+    width: 300px;
+    height: 60px;
+    border-radius: 50px;
+    background-color: transparent;
+    color: black;
+}
+#bu{
+    border-radius: 50px;
+    background-color:darkmagenta;
+    color:black ;
+}
+#di{
+    width: 300px;
+    height: 100px;
+    border-radius: 100px;
+}
